@@ -59,17 +59,6 @@ I’ve built **multi-agent RAG architectures, AI recruitment assistants, enterpr
 
 ---
 
-## 📊 GitHub Stats
-
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baburajr&show_icons=true&theme=radical)  
-#![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baburajr&layout=compact&theme=radical)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
 ## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/baburajr)  
